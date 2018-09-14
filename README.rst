@@ -17,15 +17,9 @@ The package can be installed from
 GitHub:
 ::
 
-    git clone https://github.com/ruscito/pycomm.git
+    git clone https://github.com/Willis2526/pycomm.git
     cd pycomm
     sudo python setup.py install
-
-
-PyPi:
-::
-
-    pip install pycomm
 
 ab_comm
 ~~~~~~~
